@@ -1,4 +1,11 @@
 ## <div align="center">Hi, I'm Madeline King (she/her) 👋</div>  
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/madelineking02/"><img height="36" width="36" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" /></a>
+<a href="https://discord.gg/thepragmatist122"><img height="36" width="36" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" /></a>
+<a href="https://instagram.com/msx_king"><img height="36" width="36" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" /></a>
+
+</p>
   
 
 ### <div align="center">I'm a full stack developer with a passion for developing innovative solutions to complex problems
@@ -17,16 +24,17 @@ My expertise lies within front-end web apps, and the main languages in my tech s
 
 <br/> 
 
-<div align="center"> 
-<p>&nbsp;</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maddieking02&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="codico" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maddieking02&show_icons=true&locale=en&theme=gotham&hide=stars&hide_rank=true" alt="codico" /></p>
+<div align="center">
+<table>
+  <tr>
+    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maddieking02&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="maddieking02" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maddieking02&show_icons=true&locale=en&theme=gotham&hide=stars&hide_rank=true" alt="maddieking02" /></td>
+  </tr>
+</table>
 </div>
 
 ## Languages and Tools 
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -44,8 +52,6 @@ My expertise lies within front-end web apps, and the main languages in my tech s
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
@@ -55,8 +61,6 @@ My expertise lies within front-end web apps, and the main languages in my tech s
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -73,8 +77,7 @@ My expertise lies within front-end web apps, and the main languages in my tech s
 
 <br/>  
 
-
-## Connect with me  
+<!-- ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/madeline-king330" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -87,8 +90,7 @@ My expertise lies within front-end web apps, and the main languages in my tech s
 </a>  
 </div>  
 
-<br/>  
-
+<br/>   -->
 
 ## Projects  
 - [TechStyles](https://github.com/KFEC/TechStyles) (Frontend)  
