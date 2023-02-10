@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/madelineking02/"><img height="36" width="36" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" /></a>
-<a href="https://discord.gg/186716675096313856"><img height="36" width="36" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" /></a>
+<a href="https://discordapp.com/users/186716675096313856"><img height="36" width="36" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" /></a>
 <a href="https://instagram.com/msx_king"><img height="36" width="36" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" /></a>
 
 </p>
