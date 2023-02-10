@@ -12,7 +12,7 @@ My expertise lies within front-end web apps, and the main languages in my tech s
 - 👩‍💻 During my free time I enjoy learning more technologies and collaborating with fellow SWEs on building projects  
   
 
-- 💬 Feel free to reach out to me at [madeline.king330@gmail.com](madeline.king330@gmail.com)  
+- 💬 Feel free to reach out to me at **madeline.king330@gmail.com**  
   
 
 <br/>  
