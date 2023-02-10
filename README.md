@@ -15,8 +15,13 @@ My expertise lies within front-end web apps, and the main languages in my tech s
 - 💬 Feel free to reach out to me at **madeline.king330@gmail.com**  
   
 
-<br/>  
+<br/> 
 
+<div align="center"> 
+<p>&nbsp;</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maddieking02&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="codico" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maddieking02&show_icons=true&locale=en&theme=gotham&hide=stars&hide_rank=true" alt="codico" /></p>
+</div>
 
 ## Languages and Tools 
 <table><tr><td valign="top" width="33%">
