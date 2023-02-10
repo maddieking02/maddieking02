@@ -1,7 +1,7 @@
 ## <div align="center">Hi, I'm Madeline King (she/her) 👋</div>  
   
 
-### <div align="center">I'm a full stack developer that is passionate about finding simple and creative solutions to complex problems!
+### <div align="center">I'm a full stack developer with a passion for developing innovative solutions to complex problems
 
 My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, TypeScript, React, Redux, and of course HTML/CSS.</div>  
   
