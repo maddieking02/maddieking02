@@ -13,7 +13,7 @@
 My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, TypeScript, React, Redux, and of course HTML/CSS.</div>  
   
 
-- 💫 Currently I'm working on a multiplayer type racing game for programmers called [typeracer_](https://github.com/maddieking02/typeracer)  
+- 💫 Currently I'm working on a multiplayer type racing game for programmers called [typeracer_](https://github.com/maddieking02/typeracer) using TypeScript  
   
 
 - 👩‍💻 During my free time I enjoy learning more technologies and collaborating with fellow SWEs on building projects  
